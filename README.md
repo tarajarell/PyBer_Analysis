@@ -10,17 +10,7 @@ The comparison using this visual will inform PyBer's continued ride share operat
 
 ### Fares Across City Type
 
-![https://github.com/tarajarell/PyBer_Analysis/blob/master/analysis/Totals_by_city_type.jpg](https://github.com/tarajarell/PyBer_Analysis/blob/master/analysis/Totals_by_city_type.jpg)
-
-The three city types show significantly differing rates by week for January through May, as indicated by a lack in overlap between the lines on the graph. Urban areas have distinctly higher fares, Rural areas have the lowest fares, and Suburban area fares are in between the other two. 
-
-
-### Line Graph Visual Analysis
-
-![https://github.com/tarajarell/PyBer_Analysis/blob/master/analysis/Line%20Graph.png](https://github.com/tarajarell/PyBer_Analysis/blob/master/analysis/Line%20Graph.png)
-
-
-
+![https://github.com/tarajarell/PyBer_Analysis/blob/master/analysis/PyBer_fare_summary.jpg](https://github.com/tarajarell/PyBer_Analysis/blob/master/analysis/PyBer_fare_summary.jpg)
 
 - Rural cities
   - 125 Total Rides
@@ -40,6 +30,16 @@ The three city types show significantly differing rates by week for January thro
   - $39,854.38 in Total Fares
   - $24.53 Average Fare Per Ride
   - $16.57 Average Fare per Driver
+
+
+### Line Graph Visual Analysis
+
+![https://github.com/tarajarell/PyBer_Analysis/blob/master/analysis/Line%20Graph.png](https://github.com/tarajarell/PyBer_Analysis/blob/master/analysis/Line%20Graph.png)
+
+The three city types show significantly differing rates by week for January through May, as indicated by a lack in overlap between the lines on the graph. Urban areas have distinctly higher fares, Rural areas have the lowest fares, and Suburban area fares are in between the other two. 
+
+
+
   
 
 
