@@ -33,7 +33,7 @@ The three city types show significantly differing rates by week for January thro
 
 ![https://github.com/tarajarell/PyBer_Analysis/blob/master/analysis/PyBer_fare_summary.png](https://github.com/tarajarell/PyBer_Analysis/blob/master/analysis/PyBer_fare_summary.png)
 
-## Fare and Driver Information Across City Type
+### Fare and Driver Information Across City Type
 
 ![https://github.com/tarajarell/PyBer_Analysis/blob/master/analysis/Totals_by_city_type.jpg](https://github.com/tarajarell/PyBer_Analysis/blob/master/analysis/Totals_by_city_type.jpg)
 
