@@ -36,7 +36,8 @@ The three city types show significantly differing rates by week for January thro
   - $39,854.38 in Total Fares
   - $24.53 Average Fare Per Ride
   - $16.57 Average Fare per Driver
-### Fare and Driver Information Across City Type
+  
+### Fares Across City Type
 
 ![https://github.com/tarajarell/PyBer_Analysis/blob/master/analysis/Totals_by_city_type.jpg](https://github.com/tarajarell/PyBer_Analysis/blob/master/analysis/Totals_by_city_type.jpg)
 
