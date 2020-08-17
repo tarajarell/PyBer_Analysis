@@ -20,8 +20,6 @@ In light of the unique fare lines on the above graph, PyBer may want to consider
 
 ![https://github.com/tarajarell/PyBer_Analysis/blob/master/analysis/Totals_by_city_type.jpg](https://github.com/tarajarell/PyBer_Analysis/blob/master/analysis/Totals_by_city_type.jpg)
 
-## Summary
-
 ### Recommendation 1
 
 With rates low in Rural areas, there may be some advantage of looking into alternative ways to provide ride sharing services. It may behoove PyBer to look into multiple-rider types of ride sharing, by having a driver pick up several individuals at once. This may then allow the ride share to branch out into commuting services where multiple individuals from one workplace are able to commute together from a Rural location into an Urban one, and back again at close of business each day.
