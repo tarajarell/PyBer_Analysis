@@ -17,7 +17,7 @@ The three city types show significantly differing rates by week for January thro
 
 ### Line Graph Visual Analysis
 
-![https://github.com/tarajarell/PyBer_Analysis/blob/master/analysis/PyBer_fare_summary.png](https://github.com/tarajarell/PyBer_Analysis/blob/master/analysis/PyBer_fare_summary.png)
+![https://github.com/tarajarell/PyBer_Analysis/blob/master/analysis/Line%20Graph.png](https://github.com/tarajarell/PyBer_Analysis/blob/master/analysis/Line%20Graph.png)
 
 
 
