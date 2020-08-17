@@ -8,17 +8,38 @@ The comparison using this visual will inform PyBer's continued ride share operat
 
 ## Results
 
-The three city types show significantly differing rates by week for January through May, as indicated by a lack in overlap between the lines on the graph. Urban areas have distinctly higher fares, Rural areas have the lowest fares, and Suburban area fares are in between the other two.
+The three city types show significantly differing rates by week for January through May, as indicated by a lack in overlap between the lines on the graph. Urban areas have distinctly higher fares, Rural areas have the lowest fares, and Suburban area fares are in between the other two. 
+
+- Rural cities
+  - 125 Total Rides
+  - 78 Total Drivers
+  - $4,327.93 in Total Fares
+  - $34.62 Average Fare per Ride
+  - $55.49 Average Fare per Driver
+- Suburban cities
+  - 625 Total Rides
+  - 490 Total Drivers
+  - $19,356.33 in Total Fares
+  - $30.97 Average Fare Per Ride
+  - $39.50 Average Fare per Driver
+- Urban cities
+  - 1,625 Total Rides
+  - 2,405 Total Drivers
+  - $39,854.38 in Total Fares
+  - $24.53 Average Fare Per Ride
+  - $16.57 Average Fare per Driver
 
 ### Line Graph Visual Analysis
 
 ![https://github.com/tarajarell/PyBer_Analysis/blob/master/analysis/PyBer_fare_summary.png](https://github.com/tarajarell/PyBer_Analysis/blob/master/analysis/PyBer_fare_summary.png)
 
+## Fare and Driver Information Across City Type
+
+![https://github.com/tarajarell/PyBer_Analysis/blob/master/analysis/Totals_by_city_type.jpg](https://github.com/tarajarell/PyBer_Analysis/blob/master/analysis/Totals_by_city_type.jpg)
+
 ## Summary
 
 In light of the unique fare lines on the above graph, PyBer may want to consider some recommendations in response to ensure they are running efficiently and meeting the needs of each city type.
-
-![https://github.com/tarajarell/PyBer_Analysis/blob/master/analysis/Totals_by_city_type.jpg](https://github.com/tarajarell/PyBer_Analysis/blob/master/analysis/Totals_by_city_type.jpg)
 
 ### Recommendation 1
 
